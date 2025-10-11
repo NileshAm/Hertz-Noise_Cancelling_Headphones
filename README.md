@@ -14,6 +14,10 @@ This repository contains all the design files that was needed to make an analog 
 |   └── Parts/
 │       └── *.sldprt
 ├── Circuit design
+├── Datasheets/
+|        └── lm324
+|        └── bd140,bd139
+|        └── wm-61-A-mic
 ├── simulation
 ├── .gitignore
 └── README.md
