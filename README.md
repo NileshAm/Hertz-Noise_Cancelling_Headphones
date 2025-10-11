@@ -30,7 +30,3 @@ This repository contains all the design files that was needed to make an analog 
 - **enclosure branch**: Changes done to the enclosure design is done in this branch.
     - **enclosure-***: Individual design for the enclosure design is done in this branch.<br>
     ex: `enclosure-headphone_cup`
-- **modules branch**: Include model libraries.<br>
-      `LM324`
-      `BD139 npn`
-      `BD140 pnp`
