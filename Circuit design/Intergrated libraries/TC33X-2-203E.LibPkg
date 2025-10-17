@@ -16,14 +16,14 @@ AllowPortNetNames=0
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
-DefaultConfiguration=Sources
+DefaultConfiguration=Default - All Constraints
 UserID=0xFFFFFFFF
 DefaultPcbProtel=1
 DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
-AutoSheetNumbering=1
+AutoSheetNumbering=0
 AutoCrossReferences=1
 NewIndexingOfSheetSymbols=1
 PushECOToAnnotationFile=1
@@ -38,7 +38,7 @@ OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
-CrossRefSheetStyle=1
+CrossRefSheetStyle=2
 CrossRefLocationStyle=1
 CrossRefPorts=3
 CrossRefCrossSheets=1
@@ -50,13 +50,13 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Circuit schematic.SchDoc
+DocumentPath=TC33X-2-203E\TC33X-2-203E.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -64,61 +64,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ROODWTPN
+DocumentUniqueId=EMZUXUFO
 
 [Document2]
-DocumentPath=PCB.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CJULRGFJ
-
-[Document3]
-DocumentPath=Schematic library\Solder bridge.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EXEPHRQK
-
-[Document4]
-DocumentPath=PCB library\SolderBridge.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KSODAFJF
-
-[Document5]
-DocumentPath=Circuit design.Annotation
+DocumentPath=TC33X-2-203E\TRIM_TC33X-2-203E.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134,118 +83,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
-DocumentPath=Circuit design.BomDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
-DocumentPath=Job1.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Circuit design\Design Rule Check - PCB.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Free Documents\NC Drill\PCB-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Free Documents\NC Drill\PCB-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Free Documents\NC Drill\PCB.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Free Documents\NC Drill\PCB.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB_Copper_Signal_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB_Copper_Signal_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB_Legend_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB_Paste_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB_Paste_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB_Profile.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB_Soldermask_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB_Soldermask_Top.gbr
-DItemRevisionGUID=
-
-[Configuration1]
-Name=Sources
-ParameterCount=0
-ConstraintFileCount=0
-ReleaseItemId=
-Variant=[No Variations]
-OutputJobsCount=0
-ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
-ConfigurationType=Source
+[SearchPath1]
+Path=D:\Nilesh\UOM Projects\Hertz-Noise_Cancelling_Headphones\Circuit design\Intergrated libraries\TC33X-2-203E\*.*
+IncludeSubFolders=1
 
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Canon E400 series Printer XPS
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -356,7 +201,7 @@ OutputDefault21=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Canon E400 series Printer XPS
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -367,7 +212,7 @@ OutputDefault1=0
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=Canon E400 series Printer XPS
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Composite
 OutputName1=Composite Drawing
@@ -451,7 +296,7 @@ PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Canon E400 series Printer XPS
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -478,7 +323,7 @@ OutputDefault4=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Canon E400 series Printer XPS
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -550,7 +395,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Canon E400 series Printer XPS
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -558,22 +403,6 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-Configuration1_Name1=ColumnNameFormat
-Configuration1_Item1=CaptionAsName
-Configuration1_Name2=ForceUpdateSettings
-Configuration1_Item2=False
-Configuration1_Name3=General
-Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=False|IncludeAlternatives=True|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=2|SupplierAutoQty=True|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
-Configuration1_Name4=GroupOrder
-Configuration1_Item4=
-Configuration1_Name5=VisibleOrder
-Configuration1_Item5=Line #=53|Comment=143|Description=100|Designator=94|Revision ID=78|Revision State=103|Revision Status=97|Quantity=66|LCSC part #=114|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=142|Supplier 1=72|Supplier Part Number 1=138|Supplier Unit Price 1=122|Supplier Subtotal 1=116
-Configuration1_Name6=VisibleOrder_Base
-Configuration1_Item6=Line #=53|Comment=143|Description=100|Designator=94|Revision ID=78|Revision State=103|Revision Status=97|Quantity=66|LCSC part #=114|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=142|Supplier 1=72|Supplier Part Number 1=138|Supplier Unit Price 1=122|Supplier Subtotal 1=116
-Configuration1_Name7=VisibleOrder_Consolidated
-Configuration1_Item7=Line #=53|Comment=143|Description=100|Designator=94|Revision ID=100|Revision State=128|Revision Status=97|Quantity=66|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=142|Supplier 1=72|Supplier Part Number 1=138|Supplier Unit Price 1=122|Supplier Subtotal 1=116
-Configuration1_Name8=VisibleOrder_Flat
-Configuration1_Item8=Line #=100|Comment=100|Description=100|Designator=100|Revision ID=100|Revision State=100|Revision Status=100|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=142|Supplier 1=72|Supplier Part Number 1=138|Supplier Unit Price 1=122|Supplier Subtotal 1=116
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=
@@ -621,7 +450,7 @@ OutputDefault9=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Canon E400 series Printer XPS
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -633,7 +462,7 @@ PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Canon E400 series Printer XPS
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -677,7 +506,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Canon E400 series Printer XPS
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -743,7 +572,7 @@ OutputDefault12=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Canon E400 series Printer XPS
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1181,14 +1010,6 @@ MatchStrictly2=1
 PhysicalNamingFormat=$Component_$RoomName
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
-UniqueIDPath0=
-DocumentName0=Circuit schematic.SchDoc
-IsEnabled0=1
-SelectionScope0=All
-Order0=1
-IndexEnabled0=0
-IndexStartValue0=1
-Suffix0=
 
 [PrjClassGen]
 CompClassManualEnabled=0
@@ -1200,16 +1021,10 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=1
+SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=CL21B225KAFNNNE.IntLib
-ComponentDesignItemID0=CL21B225KAFNNNE
-ComponentSymbolReference0=CL21B225KAFNNNE
-ComponentUpdate0=1
-ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1223,33 +1038,6 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Check_prices
-ParameterUpdate0=1
-ParameterName1=Comment
-ParameterUpdate1=1
-ParameterName2=Component Kind
-ParameterUpdate2=1
-ParameterName3=Description
-ParameterUpdate3=1
-ParameterName4=LCSC part #
-ParameterUpdate4=1
-ParameterName5=Library Reference
-ParameterUpdate5=1
-ParameterName6=MF
-ParameterUpdate6=1
-ParameterName7=MP
-ParameterUpdate7=1
-ParameterName8=Package
-ParameterUpdate8=1
-ParameterName9=SnapEDA_Link
-ParameterUpdate9=1
-ParameterName10=Value
-ParameterUpdate10=1
-ModelTypeGroup0=PCBLIB
-ModelTypeUpdate0=1
-ModelType0=PCBLIB
-ModelName0=CAPC2012X135N
-ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
@@ -1264,7 +1052,4 @@ ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=0|Use
 ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
 ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
-
-[SmartPDF]
-PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 

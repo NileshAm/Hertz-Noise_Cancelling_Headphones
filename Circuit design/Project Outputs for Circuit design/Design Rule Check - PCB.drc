@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Nilesh\UOM Projects\Hertz-Noise_Cancelling_Headphones\Circuit design\PCB.PcbDoc
-Date     : 2025-10-10
-Time     : 11:48:06 PM
+Date     : 2025-10-17
+Time     : 8:47:05 PM
 
 Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
 Rule Violations :0
@@ -57,4 +57,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
