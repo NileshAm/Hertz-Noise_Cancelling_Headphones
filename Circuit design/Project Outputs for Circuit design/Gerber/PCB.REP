@@ -2,17 +2,34 @@
 FileName = PCB.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Overlay
-      File : PCB_Legend_Bot.gbr
+Generating : Bottom Layer
+      File : PCB_Copper_Signal_Bot.gbr
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D13
-    D15
-    D16
-    D17
+    D14
+    D23
+    D59
+    D60
+    D61
+    D71
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
 *************************************************************
 
 *************************************************************
@@ -52,20 +69,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : PCB_Paste_Bot.gbr
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
 Generating : Top Overlay
       File : PCB_Legend_Top.gbr
 
@@ -84,41 +87,18 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : PCB_Soldermask_Top.gbr
+Generating : Bottom Solder
+      File : PCB_Soldermask_Bot.gbr
 
-    Adding Layer      : Top Solder
+    Adding Layer      : Bottom Solder
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D15
-    D22
     D23
-    D24
-    D31
-    D32
-    D37
-    D38
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
     D56
     D57
     D58
@@ -137,37 +117,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : PCB_Copper_Signal_Bot.gbr
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D15
-    D22
-    D58
-    D59
-    D60
-    D71
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-*************************************************************
-
-*************************************************************
 Generating : Top Layer
       File : PCB_Copper_Signal_Top.gbr
 
@@ -178,7 +127,7 @@ Generating : Top Layer
 
 Used DCodes :
     D13
-    D15
+    D14
     D16
     D20
     D21
@@ -201,9 +150,9 @@ Used DCodes :
     D38
     D39
     D44
-    D58
     D59
     D60
+    D61
     D71
     D72
     D73
@@ -221,10 +170,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : PCB_Soldermask_Bot.gbr
+Generating : Bottom Paste
+      File : PCB_Paste_Bot.gbr
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Bottom Layer
 
@@ -232,7 +181,58 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D13
+    D14
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PCB_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D20
+    D23
+    D24
+    D25
+    D32
+    D37
+    D38
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
     D56
     D57
     D58

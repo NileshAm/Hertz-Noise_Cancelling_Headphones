@@ -173,62 +173,122 @@ DocumentPath=Project Outputs for Circuit design\Design Rule Check - PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Free Documents\NC Drill\PCB-RoundHoles.TXT
+DocumentPath=Project Outputs for Circuit design\NC Drill\PCB-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Free Documents\NC Drill\PCB-SlotHoles.TXT
+DocumentPath=Project Outputs for Free Documents\NC Drill\PCB-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Free Documents\NC Drill\PCB.DRR
+DocumentPath=Project Outputs for Circuit design\NC Drill\PCB-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB.EXTREP
+DocumentPath=Project Outputs for Free Documents\NC Drill\PCB-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Free Documents\NC Drill\PCB.LDP
+DocumentPath=Project Outputs for Circuit design\NC Drill\PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB.REP
+DocumentPath=Project Outputs for Free Documents\NC Drill\PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for Circuit design\Gerber\PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB_Legend_Bot.gbr
+DocumentPath=Project Outputs for Circuit design\NC Drill\PCB.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB_Legend_Top.gbr
+DocumentPath=Project Outputs for Free Documents\NC Drill\PCB.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB_Paste_Bot.gbr
+DocumentPath=Project Outputs for Circuit design\Gerber\PCB.REP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB_Paste_Top.gbr
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB.REP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB_Profile.gbr
+DocumentPath=Project Outputs for Circuit design\Gerber\PCB_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument16]
+DocumentPath=Project Outputs for Circuit design\Gerber\PCB_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Circuit design\Gerber\PCB_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Circuit design\Gerber\PCB_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Circuit design\Gerber\PCB_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Circuit design\Gerber\PCB_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Circuit design\Gerber\PCB_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Circuit design\Gerber\PCB_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Circuit design\Gerber\PCB_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument31]
 DocumentPath=Project Outputs for Free Documents\Gerber\PCB_Soldermask_Top.gbr
 DItemRevisionGUID=
 
